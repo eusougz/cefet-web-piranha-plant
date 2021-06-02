@@ -1,0 +1,30 @@
+html,
+body {
+  min-height: 100%;
+}
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+h1,
+h2 {
+  font-family: "Times New Roman", serif;
+  color: limegreen;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 22px;
+}
+p {
+  text-align: justify;
+}
+blockquote,
+q {
+  font-style: italic;
+}
+blockquote {
+  margin-left: 60px;
+  margin-right: 0;
+}

@@ -1,0 +1,15 @@
+.p-curiosidade {
+  border: 3px solid limegreen;
+  padding: 10px;
+  background-image: url("../imagens/fundo.png");
+}
+
+.img-armadilhas {
+  display: block;
+  margin: 0 auto;
+  border: 8px solid limegreen;
+}
+
+.img-armadilhas-jaula {
+  width: 300px;
+}
