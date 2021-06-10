@@ -10,13 +10,14 @@ table {
   margin: 0 auto;
 }
 
-td {
+td,
+th {
   text-align: center;
   border: 1px solid black;
   padding: 5px;
 }
 
-thead td {
+thead th {
   background-color: gray;
   color: white;
   font-size: 16px;
